@@ -8,6 +8,8 @@ No projeto foi utilizado apenas estilizações básicas de CSS, HTML e Bootstrap
 
 Para rodar o projeto, basta abrir o arquivo `index.html` no seu navegador.
 
+Ou, você pode conferir como ficou o resultados [aqui](https://acgoularthub.github.io/Tindog/)!
+
 ### Observação:
 
 O projeto foi desenvolvido sem o uso de tags semânticas e utilizando o bootsat  4.0 que não é mais utilizado atualmente. O projeto foi desenvolvido, originalmente, em 2018 e para que não houvessem discrepancias com o que foi ensinado no curso, o projeto foi mantido com as mesmas configurações.
